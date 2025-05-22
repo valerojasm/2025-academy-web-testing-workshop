@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 
-// Assuming getReviews is imported from the same directory
 import getReviews from "../../api/get-reviews";
 import type { Review } from "../../api/get-reviews";
 
